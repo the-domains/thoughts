@@ -1,0 +1,23 @@
+name: Thoughts
+favicon: null
+layout_spectrum: 0.21552597312256694
+typography_spectrum: 0.9497212206479162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3763746384065598
+  lightness: 0.27484272490255535
+  saturation: 0.7513844806235284
+  rhythmicContrast: 0.682867611059919
+purpose: []
